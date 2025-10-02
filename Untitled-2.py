@@ -31,3 +31,5 @@ def main():
 # Este bloque asegura que el programa se ejecute solo si es el archivo principal
 if _name_ == "_main_":
     main()  # llama a la función main para iniciar el programa
+
+    
